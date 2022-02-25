@@ -1,0 +1,46 @@
+p{
+    font-family: 'Lexend Deca', sans-serif;
+    color: white;
+}
+h1{
+    font-family: 'Big Shoulders Display', cursive;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.boton{
+    background-color: white;
+    border-radius: 25px;
+    border: none;
+    color: hsl(31, 77%, 52%);
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+.buton{
+    background-color: white;
+    border-radius: 25px;
+    border: none;
+    color: hsl(184, 100%, 22%);
+    margin-top: 100px;
+}
+.buton1{
+    background-color: white;
+    border-radius: 25px;
+    border: none;
+    color: hsl(179, 100%, 13%);
+    margin-top: 100px;
+}
+.tarjeta{
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.tarjeta1{
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.panel{
+    background-color: rgb(236, 236, 236);
+}
